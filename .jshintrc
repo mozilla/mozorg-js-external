@@ -1,0 +1,16 @@
+{
+  "browser": true,
+  "node": false,
+  "esnext": false,
+  "bitwise": true,
+  "curly": true,
+  "newcap": true,
+  "noarg": true,
+  "undef": true,
+  "eqeqeq": true,
+  "unused": "vars",
+  "strict": true,
+  "globals": {
+    "$": false
+  }
+}
